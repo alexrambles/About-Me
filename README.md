@@ -6,7 +6,7 @@
 
 - 📚 I have a Bachelor's degree in Fine Arts and am attending a boot camp for Data Analytics.
 
-- 💻 I currently work as a freelance web developer, and I'm currently learning about game design and business analytics.
+- 💻 I currently work as a freelance web developer, but I'm looking to get into data analytics.
 
 - 🌱 My first computer language besides HTML/CSS was vanilla Javascript, but my first competant language was SQL!
 
