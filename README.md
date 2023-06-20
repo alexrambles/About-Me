@@ -1,18 +1,7 @@
-# About Me
+# Who am I?
 
-- 👋 Hi, I’m Alexis! (@artabstraction)
+## 👋 Hi, I’m Alex!
 
-- 👀 I’m currently interested in creating datasets with web scrapers that can then be analyzed with excel or SQL.
+I love to build things that I can use and that make my life easier in some way. I mostly use Python, and love creating automated processes. 
 
-- 📚 I have a Bachelor's degree in Fine Arts and am attending a boot camp for Data Analytics.
-
-- 💻 I currently work as a freelance web developer, but I'm looking to get into data analytics.
-
-- 🌱 My first computer language besides HTML/CSS was vanilla Javascript, but my first competant language was SQL!
-
-- 📫 You can usually reach me on twitter or via my email (alexis@alexisrichard.com).
-
-<!---
-artabstraction/artabstraction is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Currently I work as a Business Intelligence Developer in Marketing, but am constantly taking new courses to improve my ability with automation / workflow design / artificial intelligence.
